@@ -1,0 +1,9 @@
+### This file isn't used anymore. Look at the code in textProcessor.py
+
+fa+ke+
+hoax
+photoshopped
+clickbait
+bullshit
+fakest
+bs
